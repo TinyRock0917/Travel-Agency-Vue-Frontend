@@ -2,23 +2,11 @@
 
 Aventuro is a travel agency web application that allows users to explore various travel packages, make reservations, and manage their accounts efficiently. Designed with user experience in mind, Aventuro offers a range of functionalities to ensure a smooth and enjoyable booking process
 
-## Backend:
-### [Backend Repository](https://github.com/stivenm0/aventuro_backend.git)
-
-Video: [Watch Video](https://youtu.be/gSUW1SWNJuk?si=VmcKAuGltvgrbWJW)
-
 ## Content
 
 * [Screenshots](#screenshots)
 * [Installation](#installation)
 * [Technologies](#technologies)
-
-## Screenshots
-![Home](https://raw.githubusercontent.com/stivenm0/aventuro_frontend/main/public/docs/home.png)
-![packages](https://raw.githubusercontent.com/stivenm0/aventuro_frontend/main/public/docs/packages.png)
-![package](https://raw.githubusercontent.com/stivenm0/aventuro_frontend/main/public/docs/package.png)
-![bookings](https://raw.githubusercontent.com/stivenm0/aventuro_frontend/main/public/docs/bookings.png)
-![booking](https://raw.githubusercontent.com/stivenm0/aventuro_frontend/main/public/docs/booking.png)
 
 
 ## Installation
@@ -26,7 +14,7 @@ Here is how you can run the project locally:
 
 1. Clone the repository
     ```sh
-    git clone https://github.com/stivenm0/aventuro_frontend.git
+    git clone https://github.com/TinyRock0917/Travel-Agency-Vue-Frontend.git
     ```
 
 2. Navigate to the project's root directory
